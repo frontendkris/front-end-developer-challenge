@@ -1,3 +1,21 @@
+# To the recruiter
+
+Hi, thank you for this task - I really enjoyed working on it!
+I hope everyone will like the results of my work.
+
+The task was completed in approximately 5 hours. Improvements took an additional 3 hours.
+No pre-built styling libraries were used. The technological stack includes **Vite**, **React**, and **SCSS**.
+
+**Original task demo:** [Link](https://front-end-developer-challenge-lac.vercel.app/)
+**Demo with my enhancements:** [Link](https://front-end-developer-challenge-g2mx9qb14-frontendkris.vercel.app/)
+
+The enhancements include:
+- Redesign according to my proposal
+- Improved UX by adding sounds and disabling unattainable abilities
+- Sounds for adding skills, removing skills, inability to perform an action, and completing all skills in a given path
+- New animations
+
+
 # Front-End Developer Challenge
 In this repo you will find a mock-up and all the necessary assets (in a separate folder). The design is of a tool for a fictitious game called “TitanStar Legends”, and will not be repurposed or otherwise utilized by D&D Beyond – it is only a coding challenge.
 
@@ -23,7 +41,7 @@ Code reviewers will be directed to pay special attention to the following:
 ## Rune Mastery Loadout Talent Calculator 9000
 Players of TitanStar Legends can spend talent points that they’ve collected on runes within a tree. We need to write a js application that simulates the rune tree within the game so players can replicate their in-game loadouts to share with the TitanStar Legends community.
 
-![Example](assets/example.png)
+![Example](public/example.png)
 
 - Left click to add points.
 - Right click to remove points.
