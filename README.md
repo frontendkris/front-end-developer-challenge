@@ -6,7 +6,7 @@ I hope everyone will like the results of my work.
 The task was completed in approximately 5 hours. Improvements took an additional 3 hours.
 No pre-built styling libraries were used. The technological stack includes **Vite**, **React**, and **SCSS**.
 
-<span style="color: red;">**Original task demo:** [Link](https://front-end-developer-challenge-lac.vercel.app/)</span>
+<span style="color: red;">**Original task demo:** [Link](https://front-end-developer-challenge-2a5ipkikh-frontendkris.vercel.app/)</span>
 
 <span style="color: red;">**Demo with my enhancements:** [Link](https://front-end-developer-challenge-g2mx9qb14-frontendkris.vercel.app/)</span>
 
