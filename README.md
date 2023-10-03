@@ -1,4 +1,4 @@
-# To the recruiter
+# <span style="color: red;">To the recruiter</span>
 
 Hi, thank you for this task - I really enjoyed working on it!
 I hope everyone will like the results of my work.
@@ -6,15 +6,19 @@ I hope everyone will like the results of my work.
 The task was completed in approximately 5 hours. Improvements took an additional 3 hours.
 No pre-built styling libraries were used. The technological stack includes **Vite**, **React**, and **SCSS**.
 
-**Original task demo:** [Link](https://front-end-developer-challenge-lac.vercel.app/)
-**Demo with my enhancements:** [Link](https://front-end-developer-challenge-g2mx9qb14-frontendkris.vercel.app/)
+<span style="color: red;">**Original task demo:** [Link](https://front-end-developer-challenge-lac.vercel.app/)</span>
 
-The enhancements include:
+<span style="color: red;">**Demo with my enhancements:** [Link](https://front-end-developer-challenge-g2mx9qb14-frontendkris.vercel.app/)</span>
+
+The code for the enhanced version is available for reading in the second branch.
+
+**The enhancements include:**
 - Redesign according to my proposal
 - Improved UX by adding sounds and disabling unattainable abilities
 - Sounds for adding skills, removing skills, inability to perform an action, and completing all skills in a given path
 - New animations
 
+---
 
 # Front-End Developer Challenge
 In this repo you will find a mock-up and all the necessary assets (in a separate folder). The design is of a tool for a fictitious game called “TitanStar Legends”, and will not be repurposed or otherwise utilized by D&D Beyond – it is only a coding challenge.
@@ -49,4 +53,4 @@ Players of TitanStar Legends can spend talent points that they’ve collected on
 - Each item only accounts for one point.
 - Displays current point total
 - The user must select the items in order.
-    - For example: The user may not put a point in the cake without first having put points in the chevrons and the silverware (in that order).
+- For example: The user may not put a point in the cake without first having put points in the chevrons and the silverware (in that order).
