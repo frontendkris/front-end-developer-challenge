@@ -1,9 +1,3 @@
-# <span style="color: red;">To the recruiter</span>
-
-Hi, thank you for this task - I really enjoyed working on it!
-I hope everyone will like the results of my work.
-
-The task was completed in approximately 5 hours. Improvements took an additional 3 hours.
 No pre-built styling libraries were used. The technological stack includes **Vite**, **React**, and **SCSS**.
 
 <span style="color: red;">**Original task demo:** [Link](https://front-end-developer-challenge-2a5ipkikh-frontendkris.vercel.app/)</span>
@@ -20,7 +14,9 @@ The code for the enhanced version is available for reading in the second branch.
 
 ---
 
-# Front-End Developer Challenge
+# The task
+
+## Front-End Developer Challenge
 In this repo you will find a mock-up and all the necessary assets (in a separate folder). The design is of a tool for a fictitious game called “TitanStar Legends”, and will not be repurposed or otherwise utilized by D&D Beyond – it is only a coding challenge.
 
 
